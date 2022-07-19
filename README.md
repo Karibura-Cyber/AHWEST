@@ -2,8 +2,8 @@
 
 This project use DHT11 for Temperature and Humidity sensor
 ## Website:
-RestAPI: http://esp.meck.ml:5510/weather <br>
-RestAPI: http://esp.meck.ml:5510/weather/<station_name>
+RestAPI: http://esp.meck.ml:5510/<br>
+RestAPI: http://esp.meck.ml:5510/station/<station_name>
 ## Setup:
 NodeMCU ESP8266 Download " AHWEST.bin " <br>
 WEMOS D1 mini Download " AHWEST_WITH_096OLED_WEMOSD1MINI.bin " 
