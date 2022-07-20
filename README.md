@@ -11,7 +11,7 @@ This project use DHT11 for Temperature and Humidity sensor
 #### AHWEST MAP Website: http://map.ahwest.cf
 
 ## Setup:
-ESP8266Flasher Download https://github.com/nodemcu/nodemcu-flasher/raw/master/Win64/Release/ESP8266Flasher.exe
+ESP8266Flasher Download https://github.com/nodemcu/nodemcu-flasher/raw/master/Win64/Release/ESP8266Flasher.exe <br>
 NodeMCU ESP8266 Download " AHWEST.bin " <br>
 WEMOS D1 mini Download " AHWEST_WITH_096OLED_WEMOSD1MINI.bin " 
 
