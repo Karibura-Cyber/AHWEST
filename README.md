@@ -12,7 +12,7 @@ This project use DHT11 for Temperature and Humidity sensor
 
 ## Setup:
 - Download [ESP8266Flasher.exe](https://github.com/nodemcu/nodemcu-flasher/raw/master/Win64/Release/ESP8266Flasher.exe) for flash ESP8266 Board <br>
-- Download [AHWEST.bin](https://github.com/Karibura-Cyber/AHWEST/raw/main/bin/AHWEST.bin) for NodeMCU ESP8266 without OLED<br>
+- Download [AHWEST.bin](https://github.com/Karibura-Cyber/AHWEST/blob/main/AHWEST.bin?raw=true) for NodeMCU ESP8266(ESP 12E) without OLED<br>
 - Download [AHWEST_WITH_096OLED_WEMOSD1MINI.bin](https://github.com/Karibura-Cyber/AHWEST/raw/main/bin/AHWEST_WITH_096OLED_WEMOSD1MINI.bin) for WEMOS D1 mini with OLED
 
 ## Wire Connect:
