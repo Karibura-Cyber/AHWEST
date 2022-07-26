@@ -8,7 +8,7 @@ This project use DHT11 for Temperature and Humidity sensor
  - <code>GET /station/<station_name></code> for get data from some station
  - <code>GET /docs</code> for all request document
 
-#### AHWEST MAP Website: http://map.ahwest.cf
+#### AHWEST MAP Website: https://map.ahwest.cf
 
 ## Setup:
 - Download [ESP8266Flasher.exe](https://github.com/nodemcu/nodemcu-flasher/raw/master/Win64/Release/ESP8266Flasher.exe) for flash ESP8266 Board <br>
