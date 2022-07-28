@@ -15,6 +15,9 @@ This project use DHT11 for Temperature and Humidity sensor
 - Download [AHWEST.bin](https://github.com/Karibura-Cyber/AHWEST/blob/main/AHWEST.bin?raw=true) for NodeMCU ESP8266(ESP 12E) without OLED<br>
 - Download [AHWEST_WITH_096OLED_WEMOSD1MINI.bin](https://github.com/Karibura-Cyber/AHWEST/blob/main/AHWEST_WITH_096OLED_WEMOSD1MINI.bin?raw=true) for WEMOS D1 mini with OLED
 
+- Connect wifi SSID <code>AHWEST Setup</code>
+- Open browser and search <code>192.168.4.1</code>
+
 ## Wire Connect:
 #### DHT11
 - VCC/+ => 3v3
