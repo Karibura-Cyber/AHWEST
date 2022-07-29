@@ -17,6 +17,9 @@ This project use DHT11 for Temperature and Humidity sensor
 
 - Connect wifi SSID <code>AHWEST Setup</code>
 - Open browser and search <code>192.168.4.1</code>
+- Click to <code>Configure WiFi</code>
+- Fill data <code>Station Name must be not have space EX: "TEST-01" </code>
+- Save and wait for beep signal or BuiltIn LED blink
 
 ## Wire Connect:
 #### DHT11
