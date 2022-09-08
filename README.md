@@ -5,8 +5,6 @@ This project use DHT11 for Temperature and Humidity sensor
 ## Website & API
 #### API primary path: https://api.ahwest.cf
  - <code>GET /</code> for get all data from storage
- - <code>GET /station/<station_name></code> for get data from some station
- - <code>GET /docs</code> for all request document
 
 #### AHWEST MAP Website: https://map.ahwest.cf
 
